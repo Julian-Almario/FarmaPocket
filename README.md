@@ -1,61 +1,38 @@
-# Klisé
+# FarmaPocket
 
-Klisé is minimalist Jekyll theme for running a personal site and blog running on Jekyll.<br>
-For demo <a href="https://klise.now.sh" target="_blank" rel="noopener">klise.now.sh</a>
+Una anciclopedia farmacologica para practica clinica de estudiantes para estudiantes, con el fin de facilidad y tener a la mano la informaciòn practica y de uso frecuente que mas puedas usar en tu practica clinca como Medico en formacion con el fin de faciltiar tu aprendizaje. la informacion que encontraras en este lugar es para uso practico y de consulta rapida por eso es inporta realidad una buena anamnesis y historia clinica para una correcta evaluaciòn y diagnostico del paciente, recuerda que el tratamiento farmacologìco es una parte fundamental de nustra practica clinica pero debe de ir acompañado de educacion y explicacion para cada paciente.
 
-## Features
+NOTA: Esta informacioòn esta basada en el uso para Medellin/Colombia que es mi lugar de estudio como Medico, por lo tanto lugares pro fiera de esta estan fueras de mi analisis como informacion epidemiologìca y sociodemografica de cada lugar en el mundo. 
 
-- [x] Light & Dark Mode support :waxing_crescent_moon:
-- [x] Customizable (using `.scss`)
-- [x] Responsive (desktop, tab and mobile)
-- [x] Mobile First Design
-- [x] SEO Optimized
-- [x] Images of post Organized ([`jekyll-postfiles`](https://github.com/nhoizey/jekyll-postfiles))
-- [x] Generate Sitemap ([`jekyll-sitemap`](https://github.com/jekyll/jekyll-sitemap))
-- [x] RSS Feed ([`jekyll-feed`](https://github.com/jekyll/jekyll-feed))
-- [x] Syntax Highlighter ([`rouge`](https://github.com/rouge-ruby/rouge))
-- [x] Next & Previous Post
-- [x] Comment layout, enable in frontmatter if you wish
-- [x] Google analytics
-- [x] HTML Minify ([`jekyll-compress-html`](https://github.com/penibelst/jekyll-compress-html))
-- [x] W3C **Validated**
-- [x] Lighthouse and PageSpeed **Passed**
+PARA TENER EN CUENTA.
+- [ ] NO hay la suficiente informacion para considerarla completa
+- [x] La informacion que encontrar en el modulo es lo màs se presenta y con màs frecuencia 
 
-![Lighthouse Result](./lighthouse.png)
+## Informacion que podras encontrar
+NOTA: NO ENCONTRAR A INFORMACIÒN DE TODO EL MUNDO EN ESTE LUGAR SOLO LA MAS FRECUENTE.
+- [ ] Cardiologìa
+- [ ] Neumologia
+- [ ] Infectologìa
+- [ ] Neurologìa
+- [ ] Toxicologìa
+- [ ] Nefrologìa
+- [ ] Urologìa
+- [ ] Reumatologìa
+- [ ] Dermatologìa
 
-## Backlogs
+## Datos extras
+- [ ] RCP
+- [ ] Infuciones
+- [ ] Reposiciòn de liquidos
 
-- [ ] Intergrated with PhotoSwipe.
-- [ ] Add schema.org meta information.
-- [ ] Transform class selector to BEM metodology.
+NOTA: La informaciòn esta separada por especialidades para una busqueda y edicion eficas.
 
-## Installation
+## Contribuciones
 
-Run local server:
+Como este proyecto es de codigo abierto la mejor forma de contribuiren vez de con dinero es informacion por eso si deseas contribuir al proyecto puedes hacerlo con una copia del formato de post y rellenar la informacion necesaria para considerar un post de calidad y de uso practico para todos, para poder darle verificacion a tu contribucion te recomendamos leer [Manual para contribuir](./CONTRIBUTING.md) y luego puede hacer tu PR.
 
-```bash
-$ git clone https://github.com/piharpi/jekyll-klise.git
-$ cd jekyll-klise
-$ bundle install
-$ bundle exec jekyll serve
-```
+## Licencia
+Este projecto e de codigo abierto bajo la [Licencia MIT](LICENSE).
 
-Navigate to `localhost:4000`. You're Welcome, Fork and be Stargazer.
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/piharpi/jekyll-klise) [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/piharpi/jekyll-klise) [![Deploy to Azure button](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/?feature.customportal=false&WT.mc_id=javascript-0000-jopapa#create/Microsoft.StaticApp)
-
-## Limitation
-
-- Since [`jekyll-postfiles`](https://github.com/nhoizey/jekyll-postfiles#compatibility) plugin isn't supported by github pages, this cause will make your site problems, path broken or post images won't show up, you can host alternatively using likes [netlify.com](https://netlify.com), [vercel.com](https://vercel.com), [azure.com](https://docs.microsoft.com/azure/static-web-apps/publish-jekyll) or [surge.sh](https://surge.sh) services, which support 3rd party.
-
-## Contributing
-
-If you see any typos or formatting errors in a post, or want to helping reduce backlogs or any other issue that needs to be addressed, please do not hesitate to open a pull request and fix it!, please read [contributing](./CONTRIBUTING.md) before PR.
-
-Yeaaa feel free to open a pull request.
-## Support
-
-[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W7MJ4X) [![saweria.co](./assets/img/saweria-button.png)](https://saweria.co/piharpi)
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
+# Fundador de proyecto
+- Julian Andres Almario Loaiza, Medico en formaciòn - Corporaciòn Universitaria Remington
