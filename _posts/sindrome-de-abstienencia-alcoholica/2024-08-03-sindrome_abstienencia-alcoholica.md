@@ -4,7 +4,7 @@ date: 2024-08-03 13:34:47 +07:00
 modified: 2024-08-03 13:34:47 +07:00
 tags: [toxicología, F103, sistémico]
 description: Conjunto de manifestaciones psíquicas y físicas secundarias al cese o reducción rápida de la cantidad de alcohol ingerido en una persona que lo consume de manera intensa o prolongada.
-image: "/Sindrome-de-abstinencia-alcoholica/alcohol_withdrawal_syndrome.jpg"
+image: "/_post/Sindrome-de-abstinencia-alcoholica/alcohol_withdrawal_syndrome.jpg"
 ---
 
 “Conjunto de manifestaciones psíquicas y físicas secundarias al cese o reducción rápida de la cantidad de alcohol ingerido en una persona que lo consume de manera intensa o prolongada.”
