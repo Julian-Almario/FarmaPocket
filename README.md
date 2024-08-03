@@ -1,41 +1,50 @@
 # FarmaPocket
-<img src="https://user-images.githubusercontent.com/102930875/184941638-d1b30461-4f3d-4169-8d6a-a6c2483a26eb.png">
 
-Una anciclopedia farmacologica para practica clinica de estudiantes para estudiantes, con el fin de facilidad y tener a la mano la informaciòn practica y de uso frecuente que mas puedas usar en tu practica clinca como Medico en formacion con el fin de faciltiar tu aprendizaje.
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/102930875/184941638-d1b30461-4f3d-4169-8d6a-a6c2483a26eb.png" width="50%">
+</p>
 
-La informacion que encontraras en este lugar es para uso practico y de consulta rapida por eso es inporta realidad una buena anamnesis y historia clinica para una correcta evaluaciòn y diagnostico del paciente, recuerda que el tratamiento farmacologìco es una parte fundamental de nustra practica clinica pero debe de ir acompañado de educacion y explicacion para cada paciente.
+Una enciclopedia farmacológica diseñada por y para estudiantes de medicina, con el objetivo de proporcionar información práctica y de uso frecuente para tu práctica clínica como médico en formación. Este recurso está pensado para facilitar tu aprendizaje y tener a mano la información que más necesitas.
 
-NOTA: Esta informacioòn esta basada en el uso para Medellin/Colombia que es mi lugar de estudio como Medico, por lo tanto lugares pro fiera de esta estan fueras de mi analisis como informacion epidemiologìca y sociodemografica de cada lugar en el mundo. 
+La información que encontrarás aquí es para uso práctico y de consulta rápida. Es importante recordar la relevancia de una buena anamnesis e historia clínica para una correcta evaluación y diagnóstico del paciente. El tratamiento farmacológico es una parte fundamental de nuestra práctica clínica, pero debe ir acompañado de educación y explicación adecuada para cada paciente.
 
-PARA TENER EN CUENTA.
-- [ ] NO hay la suficiente informacion para considerarla completa
-- [x] La informacion que encontrar en el modulo es lo màs se presenta y con màs frecuencia 
+**Nota:** Esta información está basada en el uso en Medellín, Colombia, que es mi lugar de estudio como médico. Por lo tanto, los lugares fuera de esta región están fuera de mi análisis en cuanto a información epidemiológica y sociodemográfica específica.
 
-## Informacion que podras encontrar
-NOTA: NO ENCONTRAR A INFORMACIÒN DE TODO EL MUNDO EN ESTE LUGAR SOLO LA MAS FRECUENTE.
-- [ ] Cardiologìa
-- [ ] Neumologia
-- [ ] Infectologìa
-- [ ] Neurologìa
-- [ ] Toxicologìa
-- [ ] Nefrologìa
-- [ ] Urologìa
-- [ ] Reumatologìa
-- [ ] Dermatologìa
+## Para tener en cuenta
+
+- [ ] No hay suficiente información para considerarla completa.
+- [x] La información que encontrarás en el módulo es la más frecuente y presentada con mayor regularidad.
+
+## Información que podrás encontrar
+
+**Nota:** No encontrarás información de todo el mundo en este lugar, solo la más frecuente.
+
+- [ ] Cardiología
+- [ ] Neumología
+- [ ] Infectología
+- [ ] Neurología
+- [ ] Toxicología
+- [ ] Nefrología
+- [ ] Urología
+- [ ] Reumatología
+- [ ] Dermatología
 
 ## Datos extras
-- [ ] RCP
-- [ ] Infuciones
-- [ ] Reposiciòn de liquidos
 
-NOTA: La informaciòn esta separada por especialidades para una busqueda y edicion eficas.
+- [ ] RCP
+- [ ] Infusiones
+- [ ] Reposición de líquidos
+
+**Nota:** La información está separada por especialidades para una búsqueda y edición eficaces.
 
 ## Contribuciones
 
-Como este proyecto es de codigo abierto la mejor forma de contribuiren vez de con dinero es informacion por eso si deseas contribuir al proyecto puedes hacerlo con una copia del formato de post y rellenar la informacion necesaria para considerar un post de calidad y de uso practico para todos, para poder darle verificacion a tu contribucion te recomendamos leer [Manual para contribuir](./CONTRIBUTING.md) y luego puede hacer tu PR.
+Como este proyecto es de código abierto, la mejor forma de contribuir no es con dinero sino con información. Si deseas contribuir al proyecto, puedes hacerlo con una copia del formato de post y rellenar la información necesaria para considerar un post de calidad y de uso práctico para todos. Para poder verificar tu contribución, te recomendamos leer [Manual para contribuir](./CONTRIBUTING.md) y luego puedes hacer tu PR.
 
 ## Licencia
-Este projecto e de codigo abierto bajo la [Licencia MIT](LICENSE).
 
-# Fundador de proyecto
-- Julian Andres Almario Loaiza, Medico en formaciòn - Corporaciòn Universitaria Remington
+Este proyecto es de código abierto bajo la [Licencia MIT](LICENSE).
+
+## Fundador del proyecto
+
+- Julián Andrés Almario Loaiza, Médico en formación - Corporación Universitaria Remington
