@@ -1,5 +1,5 @@
 # FarmaPocket
-
+<img src="https://user-images.githubusercontent.com/102930875/184941638-d1b30461-4f3d-4169-8d6a-a6c2483a26eb.png">
 Una anciclopedia farmacologica para practica clinica de estudiantes para estudiantes, con el fin de facilidad y tener a la mano la informaciòn practica y de uso frecuente que mas puedas usar en tu practica clinca como Medico en formacion con el fin de faciltiar tu aprendizaje. la informacion que encontraras en este lugar es para uso practico y de consulta rapida por eso es inporta realidad una buena anamnesis y historia clinica para una correcta evaluaciòn y diagnostico del paciente, recuerda que el tratamiento farmacologìco es una parte fundamental de nustra practica clinica pero debe de ir acompañado de educacion y explicacion para cada paciente.
 
 NOTA: Esta informacioòn esta basada en el uso para Medellin/Colombia que es mi lugar de estudio como Medico, por lo tanto lugares pro fiera de esta estan fueras de mi analisis como informacion epidemiologìca y sociodemografica de cada lugar en el mundo. 
