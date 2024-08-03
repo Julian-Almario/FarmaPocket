@@ -33,7 +33,7 @@ Lo que diferencia el evento moderado del grave son las complicaciones como las [
 
 **Nota:** Identificarlo de esta manera es algo subjetivo, ya que se recomienda hospitalizar a todo paciente con sospecha de síndrome de abstinencia por alcohol. Esta clasificación se puede identificar con la escala CIWA-Ar; a continuación, encontrarás una calculadora para realizar la evaluación.
 
-### Calculadoras
+## Calculadoras
 
 - [CIWA-Ar](https://www.mdcalc.com/calc/1736/ciwa-ar-alcohol-withdrawal)
 
@@ -72,7 +72,7 @@ Las [benzodiazepinas](https://es.wikipedia.org/wiki/Benzodiazepina) son el trata
 
 - Administrar (medicamento) + (dosis) por (VO o IV) cada 15 minutos hasta la cesación.
 
-### Bibliografía Usada
+## Bibliografía Usada
 
 - [Toxicología Clínica CIB ed.1 2010](https://cib.org.co/servicios/catalogo/toxicologia-clinica/)
 - [Guía para el Manejo de Emergencias Toxicológicas 2017](https://retoxlac.org/guia-para-el-manejo-de-emergencias-toxicologicas-bogota-2017/)
