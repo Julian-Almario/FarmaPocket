@@ -4,7 +4,7 @@ date: 2024-08-03 13:34:47 +07:00
 modified: 2024-08-03 13:34:47 +07:00
 tags: [toxicología, F103, sistémico]
 description: Conjunto de manifestaciones psíquicas y físicas secundarias al cese o reducción rápida de la cantidad de alcohol ingerido en una persona que lo consume de manera intensa o prolongada.
-image: "/Sindrome-de-abstinencia-alcoholica/alcohol-withdrawal-syndrome.jpg"
+image: "/Sindrome-de-abstinencia-alcoholica/alcohol_withdrawal_syndrome.jpg"
 ---
 
 “Conjunto de manifestaciones psíquicas y físicas secundarias al cese o reducción rápida de la cantidad de alcohol ingerido en una persona que lo consume de manera intensa o prolongada.”
@@ -18,8 +18,8 @@ La abstinencia alcohólica se asocia con la reducción en la actividad GABA y co
 Cesación o reducción en el uso de alcohol en un consumidor crónico y 2 o más de los síntomas presentados en la siguiente tabla.
 
 <figure>
-  <img src="/Sindrome-de-abstinencia-alcoholica/etapas-signos-y-sintomas.jpg" alt="Signos y síntomas por etapas en el síndrome de abstinencia alcohólica">
-  <figcaption>Fig 1. Signos y síntomas por etapas</figcaption>
+<img src="/_posts/sindrome-de-abstienencia-alcoholica/etapas_signos_sintomas.jpg" alt="Signos y síntomas por etapas en el síndrome de abstinencia alcohólica">
+<figcaption>Fig 1. Signos y síntomas por etapas</figcaption>
 </figure>
 
 ## Clasificación
