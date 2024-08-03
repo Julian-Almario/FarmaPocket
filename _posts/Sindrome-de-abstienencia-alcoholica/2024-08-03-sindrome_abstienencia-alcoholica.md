@@ -18,7 +18,7 @@ La abstinencia alcohólica se asocia con la reducción en la actividad GABA y co
 Cesación o reducción en el uso de alcohol en un consumidor crónico y 2 o más de los síntomas presentados en la siguiente tabla.
 
 <figure>
-  <img src="/_posts/Sindrome-de-abstinencia-alcoholica/etapas-signos-y-sintomas.jpg" alt="Signos y síntomas por etapas en el síndrome de abstinencia alcohólica">
+  <img src="/Sindrome-de-abstinencia-alcoholica/etapas-signos-y-sintomas.jpg" alt="Signos y síntomas por etapas en el síndrome de abstinencia alcohólica">
   <figcaption>Fig 1. Signos y síntomas por etapas</figcaption>
 </figure>
 
