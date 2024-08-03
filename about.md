@@ -1,18 +1,13 @@
 ---
-title: Colophon
+title: Mas sobre el proyecto
 permalink: /about/
 layout: page
-excerpt: Hello peeps, I'm student of computer science from Banyuwangi, living in Jogjakarta. This blog for documentation about my programming journey, running on jekyll, hosting on netlify and using my own simple theme.
+excerpt: Hola me llamo Julian Almario y soy el creadr de este proyecto, Soy medico en formaciòn 7º Semestre de medicina en la Corporaciòn UNiversitaria Remington.
 comments: false
 ---
 
-He's a student from Banyuwangi, living in Jogjakarta. the blog for documentation about his programming 🎒 journey, running on jekyll, hosting on [now.sh](http://now.sh) and using his own theme, he name it <a href="https://github.com/piharpi/jekyll-klise" target="_blank" rel="noopener">klisé</a>, he also loves to learning web technology; but he often forgot, that a reason why him doing the writing.
-
-If you have a question about him or else, just send a letter to him.
-
-You can [report](http://github.com/piharpi/jekyll-klise/issues/new) if there is an broken link(s) or somethings else.
-
-**may u needs ✨**
-
-- {{ site.author.email }}
-- github.com/{{ site.author.github }}
+Hola me llamo Julian Almario y soy el creadr de este proyecto, Soy medico en formaciòn 7º Semestre de medicina en la Corporaciòn UNiversitaria Remington.
+<br>
+Este proyecto nace con la objetivo de tener una informacion de caldiad y acceso rapido para todas aquellas enfermedades mas frecuente o que comunmente me encuentro en mi practica clinica o su practica clinica en caso de querer contribuir con el proyecto.
+<br>
+la informacion que encontraras en este lugar es para uso practico y de consulta rapida por eso es inporta realidad una buena anamnesis y historia clinica para una correcta evaluaciòn y diagnostico del paciente, recuerda que el tratamiento farmacologìco es una parte fundamental de nustra practica clinica pero debe de ir acompañado de educacion y explicacion para cada paciente.
