@@ -1,13 +1,14 @@
 ---
-title: Acknowledgment
+title: Gracias
 permalink: /thanks/
 layout: page
-excerpt: Thanks to amazing people that i met, who help me out from follishness, connecting me with another good person, giving some advice when i'm at a bad things, pulling me from ordinary to be great.
+excerpt: Si estas viendo esto es porque indagaste mas y de mi parte te deseo surte en tu vida
 comments: false
 ---
 
-Thanks to amazing people that i met, who help me out from follishness, connecting me with another good person, giving some advice when i'm at a bad things, pulling me from ordinary to be great.
+Gracias a todas las personas que creen en este proyecto y contribiyen de forma activa en el mismo de mi parte como estudiante deseo muchos aprendizajes y comocimiento.
 
+¨Mejora un 1% cada dia, y veras que todo los objetivos que tengas se pueden lograr un paso a la vez¨
 <hr>
+ Att: Julian Andres Almario Loaiza
 
-Hopefully the knowledge that I got from them can be useful, and become a charity for them, Aamiin.
