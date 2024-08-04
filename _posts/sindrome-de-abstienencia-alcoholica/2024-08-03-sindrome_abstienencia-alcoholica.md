@@ -34,14 +34,15 @@ Se divide en:
 - Moderado
 - Grave
 
-Lo que diferencia el evento moderado del grave son las complicaciones como las [convulsiones](https://es.wikipedia.org/wiki/Convulsi%C3%B3n) y el [delirium tremens](https://es.wikipedia.org/wiki/Delirium_tremens).
-<p style="text-align: justify;">
-**Nota:** Identificarlo de esta manera es algo subjetivo, ya que se recomienda hospitalizar a todo paciente con sospecha de síndrome de abstinencia por alcohol. Esta clasificación se puede identificar con la escala CIWA-Ar; a continuación, encontrarás una calculadora para realizar la evaluación.
+Lo que diferencia el evento moderado del grave son las complicaciones como las <a href="https://es.wikipedia.org/wiki/Convulsi%C3%B3n" target="_blank" rel="noopener">convulsiones</a> y el <a href="https://es.wikipedia.org/wiki/Delirium_tremens" target="_blank" rel="noopener">delirium tremens</a>.
+
+**Nota:** <p style="text-align: justify;">Identificarlo de esta manera es algo subjetivo, ya que se recomienda hospitalizar a todo paciente con sospecha de síndrome de abstinencia por alcohol. Esta clasificación se puede identificar con la escala CIWA-Ar; a continuación, encontrarás una calculadora para realizar la evaluación.
 </p>
 
 ## Calculadoras
 
-- [CIWA-Ar](https://www.mdcalc.com/calc/1736/ciwa-ar-alcohol-withdrawal)
+<a href="https://www.mdcalc.com/calc/1736/ciwa-ar-alcohol-withdrawal" target="_blank" rel="noopener">CIWA-Ar</a>
+
 <p style="text-align: justify;">
 El puntaje máximo es 67. Se considera que <= 8 indica un síndrome de abstinencia leve y >= 15 indica uno grave con riesgo de delirium.
 </p>
@@ -51,8 +52,8 @@ Esta medición puede repetirse cada hora y el objetivo es tener una reducción d
 
 ## Diagnósticos Diferenciales
 
-Más que diagnósticos diferenciales, se considera una progresión hacia este síndrome:
-- [Síndrome de Wernicke-Korsakoff](https://rarediseases.info.nih.gov/espanol/13076/sindrome-de-wernicke-korsakoff)
+<p style="text-align: justify;">Más que diagnósticos diferenciales, se considera una progresión hacia este síndrome:</p>
+- <a href="https://rarediseases.info.nih.gov/espanol/13076/sindrome-de-wernicke-korsakoff" target="_blank" rel="noopener">Síndrome de Wernicke-Korsakoff</a>
 
 ## Paraclínicos
 
@@ -62,13 +63,16 @@ No hay pruebas diagnósticas específicas para el síndrome de abstinencia, solo
 
 ## Tratamiento Farmacológico
 
-Las [benzodiazepinas](https://es.wikipedia.org/wiki/Benzodiazepina) son el tratamiento estándar para este síndrome. En la literatura está más estudiado el uso de diazepam (poca tolerancia hepática) y lorazepam (mejor tolerancia hepática); por eso todo depende de tu sitio de práctica o en el lugar donde te encuentres.
+<p style="text-align: justify;">
+Las <a href="https://es.wikipedia.org/wiki/Benzodiazepina" target="_blank" rel="noopener">benzodiazepinas</a> son el tratamiento estándar para este síndrome. En la literatura está más estudiado el uso de diazepam (poca tolerancia hepática) y lorazepam (mejor tolerancia hepática); por eso todo depende de tu sitio de práctica o en el lugar donde te encuentres.
 
--[Diazepam](https://www.iqb.es/cbasicas/farma/farma04/d018.html): Se recomienda una dosis inicial de 10 mg IV cada 15 minutos hasta la sedación, seguida de 5-10 mg IV cada 3-4 horas según sea necesario. Se pueden administrar dosis de 5-10 mg IV cada hora si fuese necesario. Algunos pacientes pueden requerir dosis masivas de benzodiazepinas durante la fase aguda de la abstinencia alcohólica. Se han notificado dosis intravenosas de 270 mg durante 45 minutos.
+- <a href="https://www.iqb.es/cbasicas/farma/farma04/d018.html" target="_blank" rel="noopener">Diazepam</a>: Se recomienda una dosis inicial de 10 mg IV cada 15 minutos hasta la sedación, seguida de 5-10 mg IV cada 3-4 horas según sea necesario. Se pueden administrar dosis de 5-10 mg IV cada hora si fuese necesario. Algunos pacientes pueden requerir dosis masivas de benzodiazepinas durante la fase aguda de la abstinencia alcohólica. Se han notificado dosis intravenosas de 270 mg durante 45 minutos.
 
--[Lorazepam](https://www.iqb.es/cbasicas/farma/farma04/d018.html): Inicialmente 1-2 mg VO cada 8 horas. Ajustar la dosis según la respuesta clínica deseada. La dosis única máxima es de 4 mg. Disminuir la dosis después de 1-2 días de tratamiento clínicamente indicados y tolerados. **Se recomienda usar cuando el paciente esté estable**.
+- <a href="https://www.iqb.es/cbasicas/farma/farma04/d018.html" target="_blank" rel="noopener">Lorazepam</a>: Inicialmente 1-2 mg VO cada 8 horas. Ajustar la dosis según la respuesta clínica deseada. La dosis única máxima es de 4 mg. Disminuir la dosis después de 1-2 días de tratamiento clínicamente indicados y tolerados.</p>
+**Se recomienda usar cuando el paciente esté estable**.
 
--[Tiamina](https://www.iqb.es/cbasicas/farma/farma04/t024.htm): Inicialmente 100 mg intravenosos, seguidos de 50-100 mg IV o IM hasta que se restablezca la ingestión normal de tiamina.
+<p style="text-align: justify;">
+- <a href="https://www.iqb.es/cbasicas/farma/farma04/t024.htm" target="_blank" rel="noopener">Tiamina</a>: Inicialmente 100 mg intravenosos, seguidos de 50-100 mg IV o IM hasta que se restablezca la ingestión normal de tiamina.</p>
 
 **Nota:** La tiamina se debe administrar antes que la glucosa.
 
