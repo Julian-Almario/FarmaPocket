@@ -57,22 +57,17 @@ Esta medición puede repetirse cada hora y el objetivo es tener una reducción d
 
 ## Paraclínicos
 
-<p style="text-align: justify;">
-No hay pruebas diagnósticas específicas para el síndrome de abstinencia, solo se solicitan en búsqueda de complicaciones asociadas a la abstinencia (hemograma, perfil hepático, todo depende de la sintomatología del paciente).
-</p>
+<p style="text-align: justify;">No hay pruebas diagnósticas específicas para el síndrome de abstinencia, solo se solicitan en búsqueda de complicaciones asociadas a la abstinencia (hemograma, perfil hepático, todo depende de la sintomatología del paciente).</p>
 
 ## Tratamiento Farmacológico
 
-<p style="text-align: justify;">
-Las <a href="https://es.wikipedia.org/wiki/Benzodiazepina" target="_blank" rel="noopener">benzodiazepinas</a> son el tratamiento estándar para este síndrome. En la literatura está más estudiado el uso de diazepam (poca tolerancia hepática) y lorazepam (mejor tolerancia hepática); por eso todo depende de tu sitio de práctica o en el lugar donde te encuentres.
+<p style="text-align: justify;">Las <a href="https://es.wikipedia.org/wiki/Benzodiazepina" target="_blank" rel="noopener">benzodiazepinas</a> son el tratamiento estándar para este síndrome. En la literatura está más estudiado el uso de diazepam (poca tolerancia hepática) y lorazepam (mejor tolerancia hepática); por eso todo depende de tu sitio de práctica o en el lugar donde te encuentres.</p>
 
-- <a href="https://www.iqb.es/cbasicas/farma/farma04/d018.html" target="_blank" rel="noopener">Diazepam</a>: Se recomienda una dosis inicial de 10 mg IV cada 15 minutos hasta la sedación, seguida de 5-10 mg IV cada 3-4 horas según sea necesario. Se pueden administrar dosis de 5-10 mg IV cada hora si fuese necesario. Algunos pacientes pueden requerir dosis masivas de benzodiazepinas durante la fase aguda de la abstinencia alcohólica. Se han notificado dosis intravenosas de 270 mg durante 45 minutos.
+- <p style="text-align: justify;"><a href="https://www.iqb.es/cbasicas/farma/farma04/d018.html" target="_blank" rel="noopener">Diazepam</a>: Se recomienda una dosis inicial de 10 mg IV cada 15 minutos hasta la sedación, seguida de 5-10 mg IV cada 3-4 horas según sea necesario. Se pueden administrar dosis de 5-10 mg IV cada hora si fuese necesario. Algunos pacientes pueden requerir dosis masivas de benzodiazepinas durante la fase aguda de la abstinencia alcohólica. Se han notificado dosis intravenosas de 270 mg durante 45 minutos.</p>
 
-- <a href="https://www.iqb.es/cbasicas/farma/farma04/d018.html" target="_blank" rel="noopener">Lorazepam</a>: Inicialmente 1-2 mg VO cada 8 horas. Ajustar la dosis según la respuesta clínica deseada. La dosis única máxima es de 4 mg. Disminuir la dosis después de 1-2 días de tratamiento clínicamente indicados y tolerados.</p>
-**Se recomienda usar cuando el paciente esté estable**.
+- <p style="text-align: justify;"><a href="https://www.iqb.es/cbasicas/farma/farma04/d018.html" target="_blank" rel="noopener">Lorazepam</a>: Inicialmente 1-2 mg VO cada 8 horas. Ajustar la dosis según la respuesta clínica deseada. La dosis única máxima es de 4 mg. Disminuir la dosis después de 1-2 días de tratamiento clínicamente indicados y tolerados. Se recomienda usar cuando el paciente esté estable.</p>
 
-<p style="text-align: justify;">
-- <a href="https://www.iqb.es/cbasicas/farma/farma04/t024.htm" target="_blank" rel="noopener">Tiamina</a>: Inicialmente 100 mg intravenosos, seguidos de 50-100 mg IV o IM hasta que se restablezca la ingestión normal de tiamina.</p>
+- <p style="text-align: justify;"><a href="https://www.iqb.es/cbasicas/farma/farma04/t024.htm" target="_blank" rel="noopener">Tiamina</a>: Inicialmente 100 mg intravenosos, seguidos de 50-100 mg IV o IM hasta que se restablezca la ingestión normal de tiamina.</p>
 
 **Nota:** La tiamina se debe administrar antes que la glucosa.
 
