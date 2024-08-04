@@ -64,11 +64,11 @@ Esta medición puede repetirse cada hora y el objetivo es tener una reducción d
 
 <p style="text-align: justify;">Las <a href="https://es.wikipedia.org/wiki/Benzodiazepina" target="_blank" rel="noopener">benzodiazepinas</a> son el tratamiento estándar para este síndrome. En la literatura está más estudiado el uso de diazepam (poca tolerancia hepática) y lorazepam (mejor tolerancia hepática); por eso todo depende de tu sitio de práctica o en el lugar donde te encuentres.</p>
 
-- [Diazepam:](https://www.iqb.es/cbasicas/farma/farma04/d018.html) <p style="text-align: justify;">Se recomienda una dosis inicial de 10 mg IV cada 15 minutos hasta la sedación, seguida de 5-10 mg IV cada 3-4 horas según sea necesario. Se pueden administrar dosis de 5-10 mg IV cada hora si fuese necesario. Algunos pacientes pueden requerir dosis masivas de benzodiazepinas durante la fase aguda de la abstinencia alcohólica. Se han notificado dosis intravenosas de 270 mg durante 45 minutos.</p>
+-[Diazepam:](https://www.iqb.es/cbasicas/farma/farma04/d018.html) <p style="text-align: justify;">Se recomienda una dosis inicial de 10 mg IV cada 15 minutos hasta la sedación, seguida de 5-10 mg IV cada 3-4 horas según sea necesario. Se pueden administrar dosis de 5-10 mg IV cada hora si fuese necesario. Algunos pacientes pueden requerir dosis masivas de benzodiazepinas durante la fase aguda de la abstinencia alcohólica. Se han notificado dosis intravenosas de 270 mg durante 45 minutos.</p>
 
-- [Lorazepam:](https://www.iqb.es/cbasicas/farma/farma04/d018.html) <p style="text-align: justify;">Inicialmente 1-2 mg VO cada 8 horas. Ajustar la dosis según la respuesta clínica deseada. La dosis única máxima es de 4 mg. Disminuir la dosis después de 1-2 días de tratamiento clínicamente indicados y tolerados. Se recomienda usar cuando el paciente esté estable.</p>
+-[Lorazepam:](https://www.iqb.es/cbasicas/farma/farma04/d018.html) <p style="text-align: justify;">Inicialmente 1-2 mg VO cada 8 horas. Ajustar la dosis según la respuesta clínica deseada. La dosis única máxima es de 4 mg. Disminuir la dosis después de 1-2 días de tratamiento clínicamente indicados y tolerados. Se recomienda usar cuando el paciente esté estable.</p>
 
-- [Tiamina:](https://www.iqb.es/cbasicas/farma/farma04/t024.htm) <p style="text-align: justify;">Inicialmente 100 mg intravenosos, seguidos de 50-100 mg IV o IM hasta que se restablezca la ingestión normal de tiamina.</p>
+-[Tiamina:](https://www.iqb.es/cbasicas/farma/farma04/t024.htm) <p style="text-align: justify;">Inicialmente 100 mg intravenosos, seguidos de 50-100 mg IV o IM hasta que se restablezca la ingestión normal de tiamina.</p>
 
 **Nota:** La tiamina se debe administrar antes que la glucosa.
 
