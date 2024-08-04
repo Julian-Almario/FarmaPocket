@@ -16,7 +16,7 @@ image: "dermatitis-atopica.jpg"
 
 <figure>
 <img src="dermatitis-atopica.jpg">
-<figcaption>Dermatitis atopica: extraida de:https://www.dermapeople.es/blog/dermatitis-atopica-que-es/</figcaption>
+<figcaption>Dermatitis atopica: extraida de: https://www.dermapeople.es/blog/dermatitis-atopica-que-es/</figcaption>
 </figure>
 
 ## Clasificación
