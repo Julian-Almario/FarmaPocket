@@ -80,3 +80,4 @@ La dermatitis atópica es una enfermedad inflamatoria crónica de la piel caract
 * **Antihistamínico oral:** [Nombre del antihistamínico] [dosis] cada [tiempo].
 
 ## Bibliografía Usada
+[Dermatología: principales diagnósticos y tratamientos. (2022). España: Elsevier Health Sciences.](https://www.google.com.co/books/edition/Dermatolog%C3%ADa_principales_diagn%C3%B3sticos/hEqGEAAAQBAJ?hl=es-419&gbpv=0)
