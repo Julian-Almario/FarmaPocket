@@ -23,7 +23,7 @@ Cesación o reducción en el uso de alcohol en un consumidor crónico y 2 o más
 </p>
 
 <figure>
-<img src="/etapas_signos_sintomas.jpg">
+<img src="etapas_signos_sintomas.jpg">
 <figcaption>Fig 1. Signos y síntomas por etapas</figcaption>
 </figure>
 
