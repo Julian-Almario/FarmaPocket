@@ -6,16 +6,21 @@ tags: [toxicología, F103, sistémico]
 description: Conjunto de manifestaciones psíquicas y físicas secundarias al cese o reducción rápida de la cantidad de alcohol ingerido en una persona que lo consume de manera intensa o prolongada.
 image: "/alcohol_withdrawal_syndrome.jpg"
 ---
-
+<p style="text-align: justify;">
 “Conjunto de manifestaciones psíquicas y físicas secundarias al cese o reducción rápida de la cantidad de alcohol ingerido en una persona que lo consume de manera intensa o prolongada.”
+</p>
 
 ## Fisiopatología
 
+<p style="text-align: justify;">
 La abstinencia alcohólica se asocia con la reducción en la actividad GABA y con un aumento en la actividad del glutamato. Por lo tanto, el cese abrupto de la ingesta ocasiona una hiperexcitabilidad cerebral por el aumento de la acción del glutamato sobre su receptor NMDA y por la falta de control en los receptores activos de la función inhibitoria.
+</p>
 
 ## Signos y Síntomas
 
+<p style="text-align: justify;">
 Cesación o reducción en el uso de alcohol en un consumidor crónico y 2 o más de los síntomas presentados en la siguiente tabla.
+</p>
 
 <figure>
 <img src="/etapas_signos_sintomas.jpg">
