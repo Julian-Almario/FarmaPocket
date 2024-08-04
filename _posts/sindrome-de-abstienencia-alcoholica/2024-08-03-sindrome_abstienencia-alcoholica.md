@@ -36,7 +36,8 @@ Se divide en:
 
 Lo que diferencia el evento moderado del grave son las complicaciones como las <a href="https://es.wikipedia.org/wiki/Convulsi%C3%B3n" target="_blank" rel="noopener">convulsiones</a> y el <a href="https://es.wikipedia.org/wiki/Delirium_tremens" target="_blank" rel="noopener">delirium tremens</a>.
 
-**Nota:** <p style="text-align: justify;">Identificarlo de esta manera es algo subjetivo, ya que se recomienda hospitalizar a todo paciente con sospecha de síndrome de abstinencia por alcohol. Esta clasificación se puede identificar con la escala CIWA-Ar; a continuación, encontrarás una calculadora para realizar la evaluación.
+**Nota:** 
+<p style="text-align: justify;">Identificarlo de esta manera es algo subjetivo, ya que se recomienda hospitalizar a todo paciente con sospecha de síndrome de abstinencia por alcohol. Esta clasificación se puede identificar con la escala CIWA-Ar; a continuación, encontrarás una calculadora para realizar la evaluación.
 </p>
 
 ## Calculadoras
