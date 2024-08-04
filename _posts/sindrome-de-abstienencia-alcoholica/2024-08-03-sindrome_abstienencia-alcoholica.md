@@ -6,7 +6,7 @@ tags: [toxicología, F103, sistémico]
 description: Conjunto de manifestaciones psíquicas y físicas secundarias al cese o reducción rápida de la cantidad de alcohol ingerido en una persona que lo consume de manera intensa o prolongada.
 image: "/alcohol_withdrawal_syndrome.jpg"
 ---
-<p style="text-align: justify;">
+
 “Conjunto de manifestaciones psíquicas y físicas secundarias al cese o reducción rápida de la cantidad de alcohol ingerido en una persona que lo consume de manera intensa o prolongada.”
 
 ## Fisiopatología
@@ -76,4 +76,3 @@ Las [benzodiazepinas](https://es.wikipedia.org/wiki/Benzodiazepina) son el trata
 
 - [Toxicología Clínica CIB ed.1 2010](https://cib.org.co/servicios/catalogo/toxicologia-clinica/)
 - [Guía para el Manejo de Emergencias Toxicológicas 2017](https://retoxlac.org/guia-para-el-manejo-de-emergencias-toxicologicas-bogota-2017/)
-</p>
