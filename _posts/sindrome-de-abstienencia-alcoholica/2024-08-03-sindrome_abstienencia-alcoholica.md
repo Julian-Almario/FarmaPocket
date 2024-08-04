@@ -4,9 +4,9 @@ date: 2024-08-03 13:34:47 +07:00
 modified: 2024-08-03 13:34:47 +07:00
 tags: [toxicología, F103, sistémico]
 description: Conjunto de manifestaciones psíquicas y físicas secundarias al cese o reducción rápida de la cantidad de alcohol ingerido en una persona que lo consume de manera intensa o prolongada.
-image: "/_post/Sindrome-de-abstinencia-alcoholica/alcohol_withdrawal_syndrome.jpg"
+image: "/alcohol_withdrawal_syndrome.jpg"
 ---
-
+<p style="text-align: justify;">
 “Conjunto de manifestaciones psíquicas y físicas secundarias al cese o reducción rápida de la cantidad de alcohol ingerido en una persona que lo consume de manera intensa o prolongada.”
 
 ## Fisiopatología
@@ -18,7 +18,7 @@ La abstinencia alcohólica se asocia con la reducción en la actividad GABA y co
 Cesación o reducción en el uso de alcohol en un consumidor crónico y 2 o más de los síntomas presentados en la siguiente tabla.
 
 <figure>
-<img src="/_posts/sindrome-de-abstienencia-alcoholica/etapas_signos_sintomas.jpg">
+<img src="/etapas_signos_sintomas.jpg">
 <figcaption>Fig 1. Signos y síntomas por etapas</figcaption>
 </figure>
 
@@ -76,3 +76,4 @@ Las [benzodiazepinas](https://es.wikipedia.org/wiki/Benzodiazepina) son el trata
 
 - [Toxicología Clínica CIB ed.1 2010](https://cib.org.co/servicios/catalogo/toxicologia-clinica/)
 - [Guía para el Manejo de Emergencias Toxicológicas 2017](https://retoxlac.org/guia-para-el-manejo-de-emergencias-toxicologicas-bogota-2017/)
+</p>
