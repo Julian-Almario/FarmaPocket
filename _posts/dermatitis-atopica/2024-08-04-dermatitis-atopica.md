@@ -9,10 +9,6 @@ image: "dermatitis-atopica.jpg"
 
 La dermatitis atópica es una enfermedad inflamatoria crónica de la piel caracterizada por una barrera epidérmica alterada.
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/102930875/184941638-d1b30461-4f3d-4169-8d6a-a6c2483a26eb.png" width="50%">
-</p>
-
 ## Fisiopatología
 La dermatitis atópica es una enfermedad inflamatoria crónica de la piel caracterizada por una barrera epidérmica alterada, lo que lleva a una pérdida excesiva de agua y una mayor permeabilidad a los alérgenos. Se cree que una combinación de factores genéticos y ambientales desencadena una respuesta inmunológica anormal, resultando en inflamación y prurito.
 
@@ -51,22 +47,32 @@ La dermatitis atópica es una enfermedad inflamatoria crónica de la piel caract
 * **Pitiriasis rubra pilaris:** Pápulas foliculares y escamas, localización en mejillas, cuero cabelludo y extremidades.
 
 ## Paraclínicos
-* **Biopsia cutánea:** En casos dudosos para confirmar el diagnóstico y descartar otras enfermedades.
-* **Pruebas alérgicas:** Para identificar posibles alérgenos desencadenantes.
-* **Hemograma:** Puede mostrar eosinofilia en algunos casos.
+* **Prueba del parche:** Para identificar posibles alérgenos desencadenantes.
 
 ## Tratamiento Farmacológico
 * **Humectantes:** Para restaurar la barrera cutánea.
+
+**Nota:** Como los corticoides topicos se venden en crema o tubos se recomienda calcular cuantos tubos requiere el paciente para un uso por 10 dias (aproximadamente un pulpejo, gota o indice de medicamento contiene 2 gr de este asique debe de buscar en que presentación o marga la cantidad de gramos que contenga en tubo y asi mandar la cantidad)
+
 * **Corticosteroides tópicos:** Para reducir la inflamación y el prurito.
-* **Inhibidores de la calcineurina:** Para casos moderados a severos.
+  * **Baja potencia**
+    * [Hidrocortisona](https://www.iqb.es/cbasicas/farma/farma04/h009.htm): Aplicar 2 veces por dia.
+    * Desonida
+  * **Media potencia**
+    * [Betametazona](https://www.iqb.es/cbasicas/farma/farma04/b019.htm): Aplicar 1 vez por dia.
+  * **Alta potencia**
+    * [Clobetasol](https://www.iqb.es/cbasicas/farma/farma04/c074.htm): Aplicar 1 vez por dia.
+
+**Nota:** Para uso de corticoides se recomieda utilizar dependiendo de la zona afectada es decir para zona con piel delgada (Cara, Brazos, piernas o pliegues) usar corticoides de **baja potencia** y en casos de zonas con piel gruesa (palma de manos y pies, codo) usar corticoides de **alta potencia**. "Si el paciente es un niño recomendado usar de baja potencia".
+
 * **Antihistamínicos orales:** Para aliviar el prurito.
 
 ## Conducta a Seguir en el Servicio de Urgencias
 * **Evaluar la gravedad de las lesiones.**
 * **Controlar el prurito.**
-* **Iniciar tratamiento tópico con corticosteroides de potencia media o alta.**
-* **Considerar antihistamínicos orales y baños de avena.**
-* **Referir al dermatólogo para seguimiento.**
+* **Iniciar tratamiento tópico con corticosteroides de potencia baja o media.**
+* **Considerar antihistamínicos**
+* **En caso de dermatitis persistente y que requiera el uso de corticoides de alta potencia o tratamiento inmunosupresor remitir a dermatólogía para seguimiento.**
 
 ## Ejemplo de Orden Clínica
 * **Humectante:** Aplicar [nombre del humectante] sobre la piel afectada 2-3 veces al día.
