@@ -1,7 +1,7 @@
 ---
 title: Psoriasis 🌕
-date: 2024-08-04 13:00:47 +07:00
-modified: 2024-08-04 13:00:47 +07:00
+date: 2024-08-07 16:00:47 +07:00
+modified: 2024-08-07 16:00:47 +07:00
 tags: [dermatologia, L20, piel]
 description: La psoriasis es una enfermedad inflamatoria crónica de la piel caracterizada por un ciclo acelerado de crecimiento de las células cutáneas. 
 image: "psoriasis.png"
