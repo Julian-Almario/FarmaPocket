@@ -1,7 +1,7 @@
 ---
 title: Neumonias
-date: 2024-08-04 13:00:47 +07:00
-modified: 2024-08-04 13:00:47 +07:00
+date: 2024-08-07 15:00:47 +07:00
+modified: 2024-08-07 15:00:47 +07:00
 tags: [neumologia, infectologia, J189, pulmones]
 description: La neumonía es una infección del parénquima pulmonar que causa inflamación y acumulación de exudado en los alvéolos, dificultando el intercambio gaseoso y provocando síntomas como fiebre, tos y dificultad para respirar. Puede ser causada por bacterias, virus, hongos o parásitos.
 image: "neumonia.jpg"
