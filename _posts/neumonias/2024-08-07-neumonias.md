@@ -1,5 +1,5 @@
 ---
-title: Neumonias
+title: Neumonias 🫁
 date: 2024-08-07 15:00:47 +07:00
 modified: 2024-08-07 15:00:47 +07:00
 tags: [neumologia, infectologia, J189, pulmones]
