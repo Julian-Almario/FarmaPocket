@@ -1,7 +1,7 @@
 # FarmaPocket
 
 <p align="center">
-  <img src="banner.png" width="50%">
+  <img src="/assets/img/banner.png" width="50%">
 </p>
 
 Una enciclopedia farmacológica diseñada por y para estudiantes de medicina, con el objetivo de proporcionar información práctica y de uso frecuente para tu práctica clínica como médico en formación. Este recurso está pensado para facilitar tu aprendizaje y tener a mano la información que más necesitas.
